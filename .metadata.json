@@ -1,0 +1,9 @@
+[
+  {
+    "package": "dataRetrieval",
+    "oncran": false
+  },
+  {
+    "package": "tinkr"
+  }
+]

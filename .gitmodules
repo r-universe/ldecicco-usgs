@@ -18,8 +18,28 @@
 	url = https://github.com/USGS-R/smwrBase
 	shallow = true
 	registered = true
-[submodule "RSPARROW"]
-	path = RSPARROW
-	url = https://code.usgs.gov/water/stats/rsparrow/-/tree/master/RSPARROW_master
+[submodule "smwrData"]
+	path = smwrData
+	url = https://github.com/USGS-R/smwrData
+	shallow = true
+	registered = true
+[submodule "smwrGraphs"]
+	path = smwrGraphs
+	url = https://github.com/USGS-R/smwrGraphs
+	shallow = true
+	registered = true
+[submodule "smwrStats"]
+	path = smwrStats
+	url = https://github.com/USGS-R/smwrStats
+	shallow = true
+	registered = true
+[submodule "smwrQW"]
+	path = smwrQW
+	url = https://github.com/USGS-R/smwrQW
+	shallow = true
+	registered = true
+[submodule "rloadest"]
+	path = rloadest
+	url = https://github.com/USGS-R/rloadest
 	shallow = true
 	registered = true

@@ -11,6 +11,18 @@
     "package": "smwrBase"
   },
   {
-    "package": "RSPARROW"
+    "package": "smwrData"
+  },
+  {
+    "package": "smwrGraphs"
+  },
+  {
+    "package": "smwrStats"
+  },
+  {
+    "package": "smwrQW"
+  },
+  {
+    "package": "rloadest"
   }
 ]

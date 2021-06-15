@@ -40,8 +40,9 @@
 	registered = true
 [submodule "rloadest"]
 	path = rloadest
-	url = https://github.com/USGS-R/rloadest
+	url = https://github.com/ldecicco-USGS/rloadest
 	shallow = true
+	branch = no_vignettes
 	registered = true
 [submodule "toxEval"]
 	path = toxEval
@@ -52,4 +53,10 @@
 	path = EGRETci
 	url = https://code.usgs.gov/water/EGRETci
 	shallow = true
+	registered = true
+[submodule "RSPARROW"]
+	path = RSPARROW
+	url = https://code.usgs.gov/water/stats/rsparrow
+	shallow = true
+	subdir = RSPARROW_master
 	registered = true

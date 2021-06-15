@@ -32,5 +32,8 @@
   {
     "package": "EGRETci",
     "oncran": false
+  },
+  {
+    "package": "RSPARROW"
   }
 ]

@@ -4,6 +4,13 @@
     "oncran": false
   },
   {
-    "package": "tinkr"
+    "package": "EGRET",
+    "oncran": false
+  },
+  {
+    "package": "smwrBase"
+  },
+  {
+    "package": "RSPARROW"
   }
 ]

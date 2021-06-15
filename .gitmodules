@@ -8,8 +8,18 @@
 	url = https://github.com/USGS-R/dataRetrieval
 	shallow = true
 	registered = true
-[submodule "tinkr"]
-	path = tinkr
+[submodule "EGRET"]
+	path = EGRET
 	url = https://code.usgs.gov/water/EGRET
+	shallow = true
+	registered = true
+[submodule "smwrBase"]
+	path = smwrBase
+	url = https://github.com/USGS-R/smwrBase
+	shallow = true
+	registered = true
+[submodule "RSPARROW"]
+	path = RSPARROW
+	url = https://code.usgs.gov/water/stats/rsparrow/-/tree/master/RSPARROW_master
 	shallow = true
 	registered = true

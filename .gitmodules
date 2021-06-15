@@ -33,3 +33,8 @@
 	url = https://github.com/USGS-R/smwrStats
 	shallow = true
 	registered = true
+[submodule "smwrQW"]
+	path = smwrQW
+	url = https://github.com/USGS-R/smwrQW
+	shallow = true
+	registered = true

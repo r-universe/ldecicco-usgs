@@ -18,5 +18,8 @@
   },
   {
     "package": "smwrStats"
+  },
+  {
+    "package": "smwrQW"
   }
 ]

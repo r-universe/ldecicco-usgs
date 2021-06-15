@@ -28,8 +28,3 @@
 	url = https://github.com/USGS-R/smwrGraphs
 	shallow = true
 	registered = true
-[submodule "smwrStats"]
-	path = smwrStats
-	url = https://github.com/USGS-R/smwrStats
-	shallow = true
-	registered = true

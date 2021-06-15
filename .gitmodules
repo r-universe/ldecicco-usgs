@@ -5,7 +5,7 @@
 	branch = HEAD
 [submodule "dataRetrieval"]
 	path = dataRetrieval
-	url = https://github.com/USGS-R/dataRetrieval
+	url = https://github.com/USGS/dataRetrieval
 	shallow = true
 	registered = true
 [submodule "EGRET"]
@@ -36,5 +36,20 @@
 [submodule "smwrQW"]
 	path = smwrQW
 	url = https://github.com/USGS-R/smwrQW
+	shallow = true
+	registered = true
+[submodule "rloadest"]
+	path = rloadest
+	url = https://github.com/USGS-R/rloadest
+	shallow = true
+	registered = true
+[submodule "toxEval"]
+	path = toxEval
+	url = https://code.usgs.gov/water/toxEval
+	shallow = true
+	registered = true
+[submodule "EGRETci"]
+	path = EGRETci
+	url = https://code.usgs.gov/water/EGRETci
 	shallow = true
 	registered = true

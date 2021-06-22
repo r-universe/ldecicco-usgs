@@ -35,5 +35,8 @@
   },
   {
     "package": "RSPARROW"
+  },
+  {
+    "package": "HASP"
   }
 ]

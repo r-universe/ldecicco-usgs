@@ -60,3 +60,8 @@
 	shallow = true
 	subdir = RSPARROW_master
 	registered = true
+[submodule "HASP"]
+	path = HASP
+	url = https://code.usgs.gov/water/stats/HASP
+	shallow = true
+	registered = true

@@ -1,7 +1,7 @@
 [
   {
     "package": "dataRetrieval",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "EGRET",

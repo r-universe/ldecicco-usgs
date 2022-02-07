@@ -54,14 +54,33 @@
 	url = https://code.usgs.gov/water/EGRETci
 	shallow = true
 	registered = true
-[submodule "RSPARROW"]
-	path = RSPARROW
-	url = https://code.usgs.gov/water/stats/rsparrow
-	shallow = true
-	subdir = RSPARROW_master
-	registered = true
 [submodule "HASP"]
 	path = HASP
 	url = https://code.usgs.gov/water/stats/HASP
+	shallow = true
+	registered = true
+[submodule "USGSHydroTools"]
+	path = USGSHydroTools
+	url = https://github.com/USGS-R/USGSHydroTools
+	shallow = true
+	registered = true
+[submodule "SampleSplitting"]
+	path = SampleSplitting
+	url = https://github.com/USGS-R/SampleSplitting
+	shallow = true
+	registered = true
+[submodule "Rainmaker"]
+	path = Rainmaker
+	url = https://github.com/USGS-R/Rainmaker
+	shallow = true
+	registered = true
+[submodule "unitted"]
+	path = unitted
+	url = https://github.com/appling/unitted
+	shallow = true
+	registered = true
+[submodule "loadflex"]
+	path = loadflex
+	url = https://github.com/USGS-R/loadflex
 	shallow = true
 	registered = true

@@ -34,9 +34,21 @@
     "oncran": false
   },
   {
-    "package": "RSPARROW"
+    "package": "HASP"
   },
   {
-    "package": "HASP"
+    "package": "USGSHydroTools"
+  },
+  {
+    "package": "SampleSplitting"
+  },
+  {
+    "package": "Rainmaker"
+  },
+  {
+    "package": "unitted"
+  },
+  {
+    "package": "loadflex"
   }
 ]

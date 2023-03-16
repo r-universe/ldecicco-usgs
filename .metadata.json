@@ -1,11 +1,9 @@
 [
   {
-    "package": "dataRetrieval",
-    "oncran": false
+    "package": "dataRetrieval"
   },
   {
-    "package": "EGRET",
-    "oncran": false
+    "package": "EGRET"
   },
   {
     "package": "smwrBase"
@@ -26,12 +24,10 @@
     "package": "rloadest"
   },
   {
-    "package": "toxEval",
-    "oncran": false
+    "package": "toxEval"
   },
   {
-    "package": "EGRETci",
-    "oncran": false
+    "package": "EGRETci"
   },
   {
     "package": "HASP"

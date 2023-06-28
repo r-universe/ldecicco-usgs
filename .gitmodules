@@ -1,76 +1,47 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/ldecicco-usgs/universe
-	shallow = true
 	branch = HEAD
 [submodule "dataRetrieval"]
 	path = dataRetrieval
 	url = https://github.com/USGS/dataRetrieval
-	shallow = true
-	registered = true
 [submodule "EGRET"]
 	path = EGRET
 	url = https://code.usgs.gov/water/EGRET
-	shallow = true
-	registered = true
 [submodule "smwrBase"]
 	path = smwrBase
 	url = https://github.com/USGS-R/smwrBase
-	shallow = true
-	registered = true
 [submodule "smwrData"]
 	path = smwrData
 	url = https://github.com/USGS-R/smwrData
-	shallow = true
-	registered = true
 [submodule "smwrGraphs"]
 	path = smwrGraphs
 	url = https://github.com/USGS-R/smwrGraphs
-	shallow = true
-	registered = true
 [submodule "smwrStats"]
 	path = smwrStats
 	url = https://github.com/USGS-R/smwrStats
-	shallow = true
-	registered = true
 [submodule "smwrQW"]
 	path = smwrQW
 	url = https://github.com/USGS-R/smwrQW
-	shallow = true
-	registered = true
 [submodule "rloadest"]
 	path = rloadest
 	url = https://github.com/ldecicco-USGS/rloadest
-	shallow = true
 	branch = no_vignettes
-	registered = true
 [submodule "toxEval"]
 	path = toxEval
 	url = https://code.usgs.gov/water/toxEval
-	shallow = true
-	registered = true
 [submodule "EGRETci"]
 	path = EGRETci
 	url = https://code.usgs.gov/water/EGRETci
-	shallow = true
-	registered = true
 [submodule "HASP"]
 	path = HASP
 	url = https://code.usgs.gov/water/stats/HASP
-	shallow = true
-	registered = true
 [submodule "USGSHydroTools"]
 	path = USGSHydroTools
 	url = https://github.com/USGS-R/USGSHydroTools
-	shallow = true
-	registered = true
 [submodule "SampleSplitting"]
 	path = SampleSplitting
 	url = https://github.com/USGS-R/SampleSplitting
-	shallow = true
-	registered = true
 [submodule "Rainmaker"]
 	path = Rainmaker
 	url = https://github.com/USGS-R/Rainmaker
-	shallow = true
-	registered = true

@@ -2,12 +2,31 @@
 	path = .registry
 	url = https://github.com/ldecicco-usgs/universe
 	branch = HEAD
-[submodule "dataRetrieval"]
-	path = dataRetrieval
-	url = https://github.com/USGS/dataRetrieval
 [submodule "EGRET"]
 	path = EGRET
 	url = https://code.usgs.gov/water/EGRET
+[submodule "EGRETci"]
+	path = EGRETci
+	url = https://code.usgs.gov/water/EGRETci
+[submodule "HASP"]
+	path = HASP
+	url = https://code.usgs.gov/water/stats/HASP
+[submodule "Rainmaker"]
+	path = Rainmaker
+	url = https://github.com/USGS-R/Rainmaker
+[submodule "SampleSplitting"]
+	path = SampleSplitting
+	url = https://github.com/USGS-R/SampleSplitting
+[submodule "USGSHydroTools"]
+	path = USGSHydroTools
+	url = https://github.com/USGS-R/USGSHydroTools
+[submodule "dataRetrieval"]
+	path = dataRetrieval
+	url = https://github.com/USGS/dataRetrieval
+[submodule "rloadest"]
+	path = rloadest
+	url = https://github.com/ldecicco-USGS/rloadest
+	branch = no_vignettes
 [submodule "smwrBase"]
 	path = smwrBase
 	url = https://github.com/USGS-R/smwrBase
@@ -17,31 +36,12 @@
 [submodule "smwrGraphs"]
 	path = smwrGraphs
 	url = https://github.com/USGS-R/smwrGraphs
-[submodule "smwrStats"]
-	path = smwrStats
-	url = https://github.com/USGS-R/smwrStats
 [submodule "smwrQW"]
 	path = smwrQW
 	url = https://github.com/USGS-R/smwrQW
-[submodule "rloadest"]
-	path = rloadest
-	url = https://github.com/ldecicco-USGS/rloadest
-	branch = no_vignettes
+[submodule "smwrStats"]
+	path = smwrStats
+	url = https://github.com/USGS-R/smwrStats
 [submodule "toxEval"]
 	path = toxEval
 	url = https://code.usgs.gov/water/toxEval
-[submodule "EGRETci"]
-	path = EGRETci
-	url = https://code.usgs.gov/water/EGRETci
-[submodule "HASP"]
-	path = HASP
-	url = https://code.usgs.gov/water/stats/HASP
-[submodule "USGSHydroTools"]
-	path = USGSHydroTools
-	url = https://github.com/USGS-R/USGSHydroTools
-[submodule "SampleSplitting"]
-	path = SampleSplitting
-	url = https://github.com/USGS-R/SampleSplitting
-[submodule "Rainmaker"]
-	path = Rainmaker
-	url = https://github.com/USGS-R/Rainmaker

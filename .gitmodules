@@ -23,6 +23,9 @@
 [submodule "dataRetrieval"]
 	path = dataRetrieval
 	url = https://github.com/USGS/dataRetrieval
+[submodule "restrend"]
+	path = restrend
+	url = https://github.com/USGS-R/restrend
 [submodule "rloadest"]
 	path = rloadest
 	url = https://github.com/ldecicco-USGS/rloadest

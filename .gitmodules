@@ -22,7 +22,7 @@
 	url = https://github.com/USGS-R/USGSHydroTools
 [submodule "dataRetrieval"]
 	path = dataRetrieval
-	url = https://github.com/USGS/dataRetrieval
+	url = https://github.com/DOI-USGS/dataRetrieval
 [submodule "restrend"]
 	path = restrend
 	url = https://github.com/USGS-R/restrend
